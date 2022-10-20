@@ -192,6 +192,7 @@ body{
     align-items: center;
     justify-content: space-between;
     margin-top: 1rem;
+    cursor: pointer;
 }
 .stories-img{
     display: flex;
